@@ -29,7 +29,7 @@
     "fstream": "^1.0.12",
     "ionic-angular": "3.9.5",
     "ionicons": "3.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash.mergewith": "^4.6.2",
     "mem": "^5.1.1",
     "mixin-deep": "^2.0.1",
