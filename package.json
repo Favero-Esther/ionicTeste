@@ -36,7 +36,7 @@
     "rxjs": "5.5.11",
     "set-value": "^3.0.1",
     "sw-toolbox": "3.6.0",
-    "tar": "^5.0.2",
+    "tar": "^5.0.7",
     "zone.js": "0.8.29"
   },
   "devDependencies": {
