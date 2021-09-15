@@ -34,7 +34,7 @@
     "mem": "^5.1.1",
     "mixin-deep": "^2.0.1",
     "rxjs": "5.5.11",
-    "set-value": "^3.0.1",
+    "set-value": "^4.0.1",
     "sw-toolbox": "3.6.0",
     "tar": "^5.0.2",
     "zone.js": "0.8.29"
